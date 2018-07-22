@@ -9,7 +9,7 @@ My website is under development.
 Last In you aren't Thai people. I'm sorry! to say to you "My Webshop For Thai People ONLY!!!"
 # Support
 Bungreecord Server!
-Normal Server!
+\n Normal Server!
 Bukkit / spigot / Cauldron Server!
 Modded Server not supported yet!
 # Q & A
