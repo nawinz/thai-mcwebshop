@@ -6,7 +6,7 @@
 <br />This webshop is cost THB 350,500,750,1150
 <br />You can Buy this webshop in my website.
 <br />My website is under development.
-<br />Last In you aren't Thai people. I'm sorry! to say to you "My Webshop For Thai People ONLY!!!"
+<br />Last If you aren't Thai people. I'm sorry! to say to you "My Webshop For Thai People ONLY!!!"
 # Support
 Bungreecord Server!
 <br />Normal Server!
