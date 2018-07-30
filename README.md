@@ -21,3 +21,5 @@ Q : Now this webshop is under development yet!
 <br />A : I'm lazy to translate the language.
 <br />Q : When will it be finished?
 <br />A : No schedule Keep going until you finish.
+# No file.
+Because It can download. but i want to sell.
