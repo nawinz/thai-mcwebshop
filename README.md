@@ -1,8 +1,8 @@
 # thai-mcwebshop
-<br />This webshop is shiowed in thai language.
+<br />This webshop is showed in thai language.
 <br />This webshop is under development.
 <br />This webshop is provided by nawinz.
-<br />This webshop about Minecraft game.
+<br />This webshop about Minecraft.
 <br />This webshop is cost THB 350,500,750,1150
 <br />You can Buy this webshop in my website.
 <br />My website is under development.
@@ -21,5 +21,3 @@ Q : Now this webshop is under development yet!
 <br />A : I'm lazy to translate the language.
 <br />Q : When will it be finished?
 <br />A : No schedule Keep going until you finish.
-# No file.
-Because It can download. but i want to sell.
